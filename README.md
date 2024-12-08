@@ -1,5 +1,7 @@
 # Road Safety from Animal Collision
 
+The main code is in detect.py file with the animal detection and the frequency generation parts
+
 ## Overview
 We propose two solutions to prevent animal-vehicle collisions:
 1. A vehicle-integrated device that detects animals on the road and emits specific frequencies to deter them.
