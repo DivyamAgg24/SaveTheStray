@@ -21,3 +21,7 @@ The system leverages artificial intelligence, object detection models, and progr
 1. Detection of animals using devices deployed at road signs
 2. LED or LCD displays alert drivers to animals ahead.
 3. Servo-controlled speakers direct sound frequencies toward animals to guide them away.
+
+### Inference
+
+The results of the model inference on a video are provided in the inference section.
